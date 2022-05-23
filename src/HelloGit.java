@@ -9,10 +9,19 @@ public class HelloGit {
         System.out.println("hello,git");
         System.out.println("hello,git");
     }
-    public void test(){
+
+    public void test() {
         System.out.println("kkkk");
         System.out.println("kkkk");
         System.out.println("kkkk");
         System.out.println("kkkk");
+    }
+
+    public void tes1t() {
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+
     }
 }
